@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /*This is my first class
  * i don,t like coding*/
 
-/*This is my first clas gg s*/
+/*This is my first cbbbblas gg s*/
 
 
 @SpringBootApplication
